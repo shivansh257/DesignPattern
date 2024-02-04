@@ -1,0 +1,11 @@
+Interface
+1- Subject
+2- Observer
+3- DisplayElement
+
+Concrete Elements
+1- WeatherData implements subject
+2- CurrentConditionsDisplay
+
+Main
+1- WeatherStation

@@ -1,0 +1,7 @@
+Strategy ->
+behaviour are independent of each other
+result will be same by them
+
+State ->
+behaviours are dependent on each other
+result will be different

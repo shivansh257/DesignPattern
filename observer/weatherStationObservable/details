@@ -1,0 +1,8 @@
+Inbuilt interface for
+observable - subject - publisher
+    have inbuilt functions for 1. addO, 2. removeO, 3. notifyO.
+observer - subscriber
+
+observable.notify() -> calls all the observer with the data in observable.
+Observer will have all the data and can select the required data. So it is pull method.
+We are telling observer that there is some change in data and they will choose as per the requirement.
