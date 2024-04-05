@@ -1,0 +1,20 @@
+composition over interface
+can easily substitute objects with one another as all of them belongs to same interface
+
+
+now we can pass base notifier + add decoration
+
+it works via recursion + composition
+
+ChainOfResponsibility also works via recursion
+
+decorator alters the appearance of the object.
+strategy alters the internal logic of the object.
+
+
+1- sending notifications through multiple media
+2- adding decorators to coffee like milk, sugar
+3- text formatting - adding bold, italics in text
+4- i/o streams in java - can add decorator properties like buffering, encryption compression. Eg- bufferedInpurStream is a decorator that adds buffering to an input stream.
+5- Logging in software
+6- adding authentication in request response

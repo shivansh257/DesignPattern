@@ -1,0 +1,5 @@
+Clients wants to be notified by whatsapp or facebook
+
+currently main function will create object of either fb or WA at a time
+what if by both?
+new class wa+fb
