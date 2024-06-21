@@ -1,4 +1,4 @@
-package com.singleton;
+package singleton;
 
 public class SingletonDoubleLock {
     private volatile static SingletonDoubleLock uniqueInstance;

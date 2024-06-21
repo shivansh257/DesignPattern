@@ -1,4 +1,4 @@
-package com.singleton;
+package singleton;
 
 public class SingletonSync {
     private static SingletonSync uniqueInstance;

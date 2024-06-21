@@ -1,4 +1,4 @@
-package com.singleton;
+package singleton;
 
 public class SingletonEager {
     private static SingletonEager uniqueInstance = new SingletonEager();

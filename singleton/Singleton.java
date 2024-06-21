@@ -1,4 +1,4 @@
-package com.singleton;
+package singleton;
 
 public class Singleton {
     private static Singleton uniqueInstance;
